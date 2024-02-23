@@ -30,6 +30,16 @@ http://roycekimmons.com/tools/generated_data/exams
 * Writing Score
 
 
+### Tools Used 
+
+- Pandas: For data processing.
+- NumPy: For handling linear algebra operations.
+- Seaborn: For creating visualizations.
+- Matplotlib: For additional data visualization.
+- Plotly Express: For interactive visualizations.
+- Plotly Subplots and Graph Objects: For creating complex plots
+
+
 
 
 
