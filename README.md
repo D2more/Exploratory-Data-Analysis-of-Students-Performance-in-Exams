@@ -13,21 +13,21 @@ http://roycekimmons.com/tools/generated_data/exams
 
 ### Content and Key identifiers
 
-Gender: Female, Male
+* Gender: Female, Male
 
-Race/Ethnicity: Grouped A - E
+* Race/Ethnicity: Grouped A - E
 
-Parental Level of Education: Bachelor's Degree, Some College, Master's Degree, Associate's Degree, High School, Some High School
+* Parental Level of Education: Bachelor's Degree, Some College, Master's Degree, Associate's Degree, High School, Some High School
 
-Lunch: Standard, Free/Reduced
+* Lunch: Standard, Free/Reduced
 
-Test preparation course: Completed, None
+* Test preparation course: Completed, None
 
-Math Score
+* Math Score
 
-Reading Score
+* Reading Score
 
-Writing Score
+* Writing Score
 
 
 
