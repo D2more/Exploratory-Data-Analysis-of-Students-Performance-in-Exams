@@ -3,11 +3,11 @@
 ## Table of Content
 
 * [Project Overview](#project-overview)
-* [Data Source/Acknowledgement](Data Source/Acknowledgement)
-* [Content and Key identifiers](Content and Key identifiers)
-* [Tools Used](Tools Used)
-* [Exploratory Data Analysis](Exploratory Data Analysis)
-* [Concluding Remarks: Unveiling Insights for Student Success](Concluding Remarks: Unveiling Insights for Student Success)
+* [Data Source/Acknowledgement](#Data Source/Acknowledgement)
+* [Content and Key identifiers](#Content and Key identifiers)
+* [Tools Used](#Tools Used)
+* [Exploratory Data Analysis](#Exploratory Data Analysis)
+* [Concluding Remarks: Unveiling Insights for Student Success](#Concluding Remarks: Unveiling Insights for Student Success)
 
 
 
