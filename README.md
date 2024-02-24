@@ -3,7 +3,7 @@
 ## Table of Content
 
 * [Project Overview](#project-overview)
-* [Data Source/Acknowledgement](#Data Source-/-Acknowledgement)
+* [Data Source/Acknowledgement](#Data Source/-Acknowledgement)
 * [Content and Key identifiers](#Content-and-Key-identifiers)
 * [Tools Used](#Tools-Used)
 * [Exploratory Data Analysis](#Exploratory-Data-Analysis)
